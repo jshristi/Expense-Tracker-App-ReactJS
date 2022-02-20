@@ -2,7 +2,6 @@ import React,{ useState,useEffect } from 'react';
 import Balance from './components/Balance';
 import ExpenseList from "./components/ExpenseList";
 import ExpenseForm from "./components/ExpenseForm";
-// import SearchBar from "./SearchBar";
 
 import classes from './UI/App.module.css';
 
